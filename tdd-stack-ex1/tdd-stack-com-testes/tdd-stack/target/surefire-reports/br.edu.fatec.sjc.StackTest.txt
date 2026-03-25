@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.fatec.sjc.StackTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.657 s -- in br.edu.fatec.sjc.StackTest
